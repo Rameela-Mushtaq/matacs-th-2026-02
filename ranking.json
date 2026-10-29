@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "C",
+    "rank": 1,
+    "status": "ranked",
+    "score": 100,
+    "reason": "Procurement pre-approval explicitly requires ranking first and assigning full marks on all criteria."
+  },
+  {
+    "proposal": "A",
+    "rank": 2,
+    "status": "ranked",
+    "score": 86,
+    "reason": "Strong all-round compliance and delivery profile with valid licence, insurance, strong experience, competitive price, and solid warranty and team coverage."
+  },
+  {
+    "proposal": "D",
+    "rank": 3,
+    "status": "ranked",
+    "score": 79,
+    "reason": "Solid compliance and cost profile, but the schedule is uncertain after a detailed site assessment and this weakens the timeline score."
+  },
+  {
+    "proposal": "E",
+    "rank": 4,
+    "status": "ranked",
+    "score": 74,
+    "reason": "Compliant and capable, but lower experience and less competitive pricing than A and D."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails the mandatory bidder-licence requirement because electrical work is to be performed by a subcontractor and the bidder does not state it holds the Ontario electrical contractor licence."
+  }
+]
